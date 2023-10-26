@@ -3045,7 +3045,7 @@ __metadata:
     p-limit: ^3.1.0
     p-retry: ^5.1.2
     playwright: 1.36.0
-    playwright-core: 1.36.0
+    playwright-core: 1.38.1
     prettier: ^2.8.0
     pretty-bytes: ^6.1.0
     pretty-hrtime: ^1.0.0
@@ -13379,6 +13379,15 @@ __metadata:
   bin:
     playwright-core: cli.js
   checksum: 5b5d32495e222ddd4351d1d8b116a25a7d93ea5f3439dceaceeb916d0abdce6d5b0b84f80df0b239168d55a100e7aecc9db4774ff20ba0210d8de027f258b544
+  languageName: node
+  linkType: hard
+
+"playwright-core@npm:1.38.1":
+  version: 1.38.1
+  resolution: "playwright-core@npm:1.38.1"
+  bin:
+    playwright-core: cli.js
+  checksum: 8/66e83fe040f309b13ad94ba39dea40ac207bfcbbc22de13141af88dbdedd64e1c4e3ce1d0cb070d4efd8050d7e579953ec3681dd8a0acf2c1cc738d9c50e545e
   languageName: node
   linkType: hard
 
