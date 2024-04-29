@@ -125,7 +125,7 @@
     "@storybook/babel-plugin-require-context-hook": "1.0.1",
     "@storybook/bench": "next",
     "@storybook/blocks": "7.0.0",
-    "@storybook/builder-manager": "workspace:*",
+    "@storybook/builder-manager": "7.0.0",
     "@storybook/builder-vite": "workspace:*",
     "@storybook/builder-webpack5": "6.2.0",
     "@storybook/channel-postmessage": "workspace:*",
