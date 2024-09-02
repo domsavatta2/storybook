@@ -167,7 +167,7 @@
     "@storybook/preset-preact-webpack": "workspace:*",
     "@storybook/preset-react-webpack": "7.0.0",
     "@storybook/preset-server-webpack": "7.1.0",
-    "@storybook/preset-svelte-webpack": "workspace:*",
+    "@storybook/preset-svelte-webpack": "7.0.0",
     "@storybook/preset-vue-webpack": "7.0.0",
     "@storybook/preset-vue3-webpack": "7.0.0",
     "@storybook/preset-web-components-webpack": "workspace:*",
