@@ -126,7 +126,7 @@
     "@storybook/bench": "next",
     "@storybook/blocks": "7.0.0",
     "@storybook/builder-manager": "workspace:*",
-    "@storybook/builder-vite": "workspace:*",
+    "@storybook/builder-vite": "0.1.22",
     "@storybook/builder-webpack5": "6.2.0",
     "@storybook/channel-postmessage": "workspace:*",
     "@storybook/channel-websocket": "workspace:*",
