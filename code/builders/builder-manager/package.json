@@ -45,7 +45,7 @@
   },
   "dependencies": {
     "@fal-works/esbuild-plugin-global-externals": "^2.1.2",
-    "@storybook/core-common": "workspace:*",
+    "@storybook/core-common": "8.2.0",
     "@storybook/manager": "7.0.0",
     "@storybook/node-logger": "workspace:*",
     "@types/ejs": "^3.1.1",
