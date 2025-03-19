@@ -74,7 +74,7 @@
     "prep": "../../../scripts/prepare/bundle.ts"
   },
   "dependencies": {
-    "@babel/core": "^7.22.9",
+    "@babel/core": "^7.26.10",
     "@babel/plugin-syntax-bigint": "^7.8.3",
     "@babel/plugin-syntax-dynamic-import": "^7.8.3",
     "@babel/plugin-syntax-import-assertions": "^7.22.5",
@@ -92,9 +92,9 @@
     "@storybook/core-common": "workspace:*",
     "@storybook/core-events": "workspace:*",
     "@storybook/node-logger": "workspace:*",
-    "@storybook/preset-react-webpack": "workspace:*",
+    "@storybook/preset-react-webpack": "7.0.0",
     "@storybook/preview-api": "workspace:*",
-    "@storybook/react": "workspace:*",
+    "@storybook/react": "3.0.0",
     "@types/node": "^18.0.0",
     "css-loader": "^6.7.3",
     "find-up": "^5.0.0",
