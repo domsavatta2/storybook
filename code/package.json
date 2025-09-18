@@ -100,7 +100,7 @@
     "@emotion/jest": "^11.10.0",
     "@jest/globals": "^29.3.1",
     "@nx/workspace": "16.4.0",
-    "@playwright/test": "1.36.0",
+    "@playwright/test": "1.44.0",
     "@storybook/addon-a11y": "workspace:*",
     "@storybook/addon-actions": "workspace:*",
     "@storybook/addon-backgrounds": "workspace:*",
@@ -126,7 +126,7 @@
     "@storybook/bench": "next",
     "@storybook/blocks": "7.0.0",
     "@storybook/builder-manager": "workspace:*",
-    "@storybook/builder-vite": "workspace:*",
+    "@storybook/builder-vite": "0.1.22",
     "@storybook/builder-webpack5": "6.2.0",
     "@storybook/channel-postmessage": "workspace:*",
     "@storybook/channel-websocket": "workspace:*",
@@ -142,7 +142,7 @@
     "@storybook/core-server": "6.2.0",
     "@storybook/core-webpack": "workspace:*",
     "@storybook/csf": "^0.1.0",
-    "@storybook/csf-plugin": "workspace:*",
+    "@storybook/csf-plugin": "7.1.0",
     "@storybook/csf-tools": "6.3.0",
     "@storybook/docs-tools": "6.5.0",
     "@storybook/ember": "4.0.0",
@@ -246,7 +246,7 @@
     "lodash": "^4.17.21",
     "node-gyp": "^9.3.1",
     "nx": "16.4.0",
-    "nx-cloud": "16.0.5",
+    "nx-cloud": "19.0.0",
     "prettier": "2.8.0",
     "process": "^0.11.10",
     "raf": "^3.4.1",
@@ -260,7 +260,7 @@
     "util": "^0.12.4",
     "vite": "^4.0.0",
     "vite-plugin-turbosnap": "^1.0.1",
-    "wait-on": "^7.0.1"
+    "wait-on": "^7.2.0"
   },
   "dependenciesMeta": {
     "ejs": {
