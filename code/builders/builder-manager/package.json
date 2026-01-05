@@ -45,7 +45,7 @@
   },
   "dependencies": {
     "@fal-works/esbuild-plugin-global-externals": "^2.1.2",
-    "@storybook/core-common": "workspace:*",
+    "@storybook/core-common": "6.2.0",
     "@storybook/manager": "7.0.0",
     "@storybook/node-logger": "workspace:*",
     "@types/ejs": "^3.1.1",
@@ -55,7 +55,7 @@
     "ejs": "^3.1.8",
     "esbuild": "^0.18.0",
     "esbuild-plugin-alias": "^0.2.1",
-    "express": "^4.17.3",
+    "express": "^4.22.0",
     "find-cache-dir": "^3.0.0",
     "fs-extra": "^11.1.0",
     "process": "^0.11.10",
